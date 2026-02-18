@@ -3,8 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=Sleiman%20Sleiman&fontSize=50&animation=fadeIn&fontAlign=50" />
 </p>
 
-<h3 align="center">Programmer • Full-Stack Developer</h3>
-<p align="center">Computer Science Student at Malmö University (Graduating 2026)</p>
+<h3 align="center">Software Engineer • Full-Stack Developer</h3>
 
 <!-- Social Badges -->
 <p align="center">
@@ -59,7 +58,7 @@
 # Experience
 
 ### **Programmer & Project Manager — NSR**  
-September 2025 – January 2026  
+September 2025 – February 2026  
 
 
 
