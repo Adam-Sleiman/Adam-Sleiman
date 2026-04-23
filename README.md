@@ -1,16 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=Sleiman%20Sleiman&fontSize=50&animation=fadeIn&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=Adam%20Sleiman&fontSize=50&animation=fadeIn&fontAlign=50" />
 </p>
 
 <h3 align="center">Software Engineer • Full-Stack Developer</h3>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://sleimansleiman.github.io/">
+  <a href="https://Adamsleiman.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:Sleimanx2@gmail.com">
+  <a href="mailto:AdamSleimanDev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sleiman-sleiman-24639830b/">
