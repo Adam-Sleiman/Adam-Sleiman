@@ -57,7 +57,10 @@
 
 # Experience
 
-### **Programmer & Project Manager — NSR**  
+### **Full-Stack Developer — Rune**  
+Juli 2026 – Present  
+
+### **Full-Stack Developer & Project Manager — NSR**  
 September 2025 – February 2026  
 
 
