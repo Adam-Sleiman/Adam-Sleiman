@@ -100,16 +100,3 @@
 | **Full-Stack Developer** | Rune | July 2026 – Present |
 | **Full-Stack Developer & Project Manager** | NSR | September 2025 – February 2026 |
 
-<br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adam-sleiman&show_icons=true&hide_border=true&bg_color=0f2027&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-sleiman&layout=compact&hide_border=true&bg_color=0f2027&title_color=61DAFB&text_color=ffffff" />
-</p>
-
-<!-- ============ Footer ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
-</p>
