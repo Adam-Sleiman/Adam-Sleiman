@@ -20,9 +20,9 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-#### 💻 Programming & Frameworks
+#### Programming & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-#### 🌐 Web & Backend
+#### Web & Backend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-#### 🤖 AI & Machine Learning
+#### AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/LLM%20Fine--tuning-2c5364?style=for-the-badge" />
 </p>
 
-#### 🧭 Methodologies & Tools
+#### Methodologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Agile%20Development-0052CC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" />
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge" />
 </p>
 
-#### 🗣️ Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Swedish-Native-005CBF?style=for-the-badge&labelColor=FECC02" />
   <img src="https://img.shields.io/badge/English-Fluent-1e3a5f?style=for-the-badge&labelColor=B22234" />
@@ -93,12 +93,21 @@
 
 <br/>
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |:--|:--|:--|
 | **Full-Stack Developer** | Rune | July 2026 – Present |
 | **Full-Stack Developer & Project Manager** | NSR | September 2025 – February 2026 |
+
+<br/>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adam-sleiman&show_icons=true&hide_border=true&bg_color=0f2027&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-sleiman&layout=compact&hide_border=true&bg_color=0f2027&title_color=61DAFB&text_color=ffffff" />
+</p>
 
 <!-- ============ Footer ============ -->
 <p align="center">
