@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adam%20Sleiman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=55" />
 </p>
-
+ 
 <!-- ============ Social ============ -->
 <p align="center">
   <a href="https://Adam-sleiman.github.io/">
